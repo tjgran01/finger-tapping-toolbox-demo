@@ -24,8 +24,4 @@ All Data was taken from one participant over the period of one day. The tasks ar
 
 ### Script descirption.
 
-I tried to break everything up as best I could while also showing there are alternative ways to do things. The scripts will SAVE out. Every step of the process. I have a decent amount of RAM. You may not. If you do not, perhaps saving things to the same variable will save you some headache.
-
-Also worth noting. The GLM will take a decent amount of time. You can improve this by:
-1. Not loading the whole dataset.
-2. Changing the resample arg to resample to 1 Hz.
+I tried to break everything up as best I could while also showing there are alternative ways to do things. The scripts will SAVE out. Every step of the process. I have a decent amount of RAM. You may nopt
